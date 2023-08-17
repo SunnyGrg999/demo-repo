@@ -1,6 +1,6 @@
 # Demo
 
-Some random description
+Some random descriptions.
 
 {
   "Insert Description here"
